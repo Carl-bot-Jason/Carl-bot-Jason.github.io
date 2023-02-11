@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.main{
+	min-height: 100vh;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content{
+	font-family: 'IBM Plex Serif', serif;
+	font-size: 70px;
+	color: rgb(194, 193, 193);
+}
